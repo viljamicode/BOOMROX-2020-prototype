@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: 3e899676283d33649aca7cfd944d5568
+  - enabled: 1
+    path: Assets/Scenes/AsteroidMinigolfMap1.unity
+    guid: f8e6cb373d9155f498b2a943213d7500
+  - enabled: 1
+    path: Assets/Scenes/AsteroidMinigolfMap2.unity
+    guid: f2aee04fd2866c84b8a582cab9bdea74
+  - enabled: 1
+    path: Assets/Scenes/AsteroidMinigolfMap3-PracticeLevel.unity
+    guid: 153ce3af73385c3458491527b024de4b
+  - enabled: 1
+    path: Assets/Scenes/AsteroidMinigolfMap3.unity
+    guid: fe3cf500bd44a5948b358fba973ccfff
+  m_configObjects: {}

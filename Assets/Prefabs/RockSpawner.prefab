@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5303486103467509607
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5303486103467509605}
+  - component: {fileID: 5303486103467509604}
+  m_Layer: 0
+  m_Name: RockSpawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5303486103467509605
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5303486103467509607}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.29117632, y: 3.2464435, z: -1.8378906}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5303486103467509604
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5303486103467509607}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 262c94b0231183d48b3a8a77b61fd2cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  rocks:
+  - {fileID: 6041712607608623421, guid: 551bec5cdee9fa24b8e282de7fc6fecd, type: 3}
+  - {fileID: 1492196606831466730, guid: 3e2995c5f34809243a774c627ff1372a, type: 3}
+  - {fileID: 4017980089388186012, guid: e52231c1fb34dfa47a63b6deb07d24dc, type: 3}
+  - {fileID: 2326635821483477891, guid: 28f4537407650034c87eae262837cac5, type: 3}
+  - {fileID: 1718580065905046842, guid: eee02b188aea9444186bb7cf78d94c66, type: 3}
+  - {fileID: 6932722906613735309, guid: 82f77d2973f280e4da2b78e6d100f5e7, type: 3}
+  - {fileID: 6932722906613735309, guid: c7619cec8f208b64fa92545cce2d6a0d, type: 3}
+  - {fileID: 6932722906613735309, guid: 9202f9dd57e3f0e4ebde9eb21222d97a, type: 3}
+  - {fileID: 6932722906613735309, guid: bc8c2e2c37581cc4aae1c2512c9074fb, type: 3}
+  - {fileID: 6932722906613735309, guid: 21b62ef0fc18a2e4d873177ff0919045, type: 3}
+  colliders: []
