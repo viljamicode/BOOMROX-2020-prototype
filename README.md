@@ -1,5 +1,6 @@
 # BOOMROX-2020-prototype
 A prototype of a mobile game ("BOOMROX") I made in 2020 using C# and Unity.
+
 For an example of C# code written by me, go into Assets\Scripts and look at "shoot.cs" or any of the other C# scripts in that folder.
 
 The idea was a 2D top-down game that combined elements of classic minigolf and Asteroids(the arcade game from 1979).
