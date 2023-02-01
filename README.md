@@ -12,3 +12,5 @@ The game only has a few prototype levels and the gameplay loop is very basic: Tr
 There is also an arcade level where the obstacles just spawn around you and you can hit them with your "ship" for fun. I made a working prototype of this game for Android, where you could play it on a touch screen. However, if you wish to turn it into an .exe file on your PC, you can play it with your mouse.
 
 I learned quite a bit while making this prototype and I might continue working on this some day if I get some inspiration.
+
+NOTE: Some project files (shaders etc) were not uploaded to GitHub, since this project was only uploaded to showcase some of my C# work.
